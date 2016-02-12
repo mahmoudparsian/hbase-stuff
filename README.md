@@ -1,2 +1,6 @@
 # hbase-stuff
-HBase stuff, tutorials, code, pointers, ...
+The purpose of this repository is to demo HBase stuff such as:
+* Tutorials
+* Sample code
+* Pinters to online resources
+* ...
